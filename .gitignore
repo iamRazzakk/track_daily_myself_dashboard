@@ -1,0 +1,10 @@
+dist
+node_modules
+.DS_Store
+coverage
+npm-debug.log
+yarn-error.log
+.idea
+*.log
+*.swp
+config.bat
